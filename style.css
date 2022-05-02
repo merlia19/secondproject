@@ -1,0 +1,26 @@
+body{
+    background-color: white;
+    color:black
+}
+.mydark{
+    background-color: black;
+    color:white
+}
+
+
+#coupon{
+    height:250px;
+    width:450px;
+    z-index: 100;
+    position: absolute;
+    display: none;
+    margin-left: 37%;
+}
+
+#close{
+    position:absolute;
+    margin-right:100px;
+    margin-top:-249px;
+}
+
+
